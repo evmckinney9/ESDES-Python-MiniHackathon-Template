@@ -1,2 +1,2 @@
 # ESDES-Python-MiniHackathon-Template
-Released 6pm on Friday Feb 19th.
+Released 3pm on Friday Feb 19th.
